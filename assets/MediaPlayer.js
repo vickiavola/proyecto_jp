@@ -17,4 +17,4 @@ function MediaPlayer(config) {
       this.pause();
     }
   };
-  export default MediaPlayer
+  export default MediaPlayer;
